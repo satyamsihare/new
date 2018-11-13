@@ -2,9 +2,9 @@
 using namespace std;
 int square(int x)
 {
+	cout<<"satyam";
 	return x*x;
 }
-
 int main()
 {
 	cout<<"Hello";
