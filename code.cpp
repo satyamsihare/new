@@ -2,7 +2,7 @@
 using namespace std;
 int square(int x)
 {
-	cout<<"satyam";
+	cout<<"satyam is Branching";
 	return x*x;
 }
 int main()
